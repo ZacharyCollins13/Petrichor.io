@@ -1,3 +1,4 @@
-<?php
+<h1>html</h1>
 
-echo "bish";
+<?php
+ echo " still works";
