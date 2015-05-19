@@ -1,9 +1,7 @@
 <!DOCTYPE HTML>
 <form>
-    First name:<br>
-    <input type="text" name="firstname">
-    <br>
-    Last name:<br>
-    <input type="text" name="lastname">
+    Order?:<br>
+    <input type="text" name="">
+    <input type="submit" value="Order">
 </form>
 </html>
