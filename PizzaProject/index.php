@@ -10,7 +10,6 @@
             </form>
         <?php } else {
             echo $_POST['order'];
-
         } ?>
     </body>
 </html>
