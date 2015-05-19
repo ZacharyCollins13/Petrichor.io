@@ -1,4 +1,9 @@
-<h1>html</h1>
+<!DOCTYPE HTML>
+<html>
+<body>
 
-<?php
- echo " still works";
+<form action=<?php echo $_POST ?> >
+</form>
+
+</body>
+</html>
